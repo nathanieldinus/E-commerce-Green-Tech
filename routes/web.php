@@ -37,6 +37,7 @@
 
 
     // STORAGE LINKED ROUTE
+    //test
     Route::get('storage-link',[AdminController::class,'storageLink'])->name('storage.link');
 
 
